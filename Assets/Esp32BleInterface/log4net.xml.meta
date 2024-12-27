@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 167549d3bf001a246abdad3f689f4cbb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192181
+  packageName: Esp32Ble - ESP32 BLE Interface
+  packageVersion: 2.0
+  assetPath: Assets/Esp32BleInterface/log4net.xml
+  uploadId: 629018

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0b781ef3b968684d9070edfc26522e1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192181
+  packageName: Esp32Ble - ESP32 BLE Interface
+  packageVersion: 2.0
+  assetPath: Assets/Esp32BleInterface/Scenes/Esp32BleSampleScene.unity
+  uploadId: 629018

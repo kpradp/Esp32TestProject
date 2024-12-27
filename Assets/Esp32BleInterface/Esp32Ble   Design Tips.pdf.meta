@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9933fb40539da8428b20c651ec27fbb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192181
+  packageName: Esp32Ble - ESP32 BLE Interface
+  packageVersion: 2.0
+  assetPath: Assets/Esp32BleInterface/Esp32Ble   Design Tips.pdf
+  uploadId: 629018

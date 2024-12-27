@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bab848f51528a9c45970bec0fce9ad1e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192181
+  packageName: Esp32Ble - ESP32 BLE Interface
+  packageVersion: 2.0
+  assetPath: Assets/Esp32BleInterface/esp32ble-v2/esp32ble-v2.ino
+  uploadId: 629018

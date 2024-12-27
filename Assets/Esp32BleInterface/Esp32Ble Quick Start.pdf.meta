@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a15001687ecf4264492e5469e55d0d60
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 192181
+  packageName: Esp32Ble - ESP32 BLE Interface
+  packageVersion: 2.0
+  assetPath: Assets/Esp32BleInterface/Esp32Ble Quick Start.pdf
+  uploadId: 629018
